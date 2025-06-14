@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm shuhd</h1>
-- 🌱 I’m currently learning **database**
+
 
 - 📫 How to reach me **shuhd@graduate.utm.my**
 
